@@ -1,0 +1,25 @@
+.footer {
+  background-color: rgb(32, 32, 32);
+  height: 25vh;
+  color: white;
+  display: flex;
+}
+.footer-image {
+  width: 155px;
+  height: fit-content;
+}
+.line {
+  height: 21vh;
+  width: 1px;
+  background-color: aliceblue;
+  margin-top: 15px;
+}
+.leftFooter {
+  margin-top: 28px;
+  margin-right: 10px;
+  margin-left: 298px;
+}
+.rightFooter {
+  margin-left: 10px;
+  margin-top: 28px;
+}
